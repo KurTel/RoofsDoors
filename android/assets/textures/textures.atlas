@@ -1,0 +1,26 @@
+
+textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bwmap
+  rotate: false
+  xy: 1, 103
+  size: 2048, 2511
+  orig: 2048, 2511
+  offset: 0, 0
+  index: -1
+gg
+  rotate: false
+  xy: 1, 1
+  size: 45, 100
+  orig: 45, 100
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2051, 2550
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
